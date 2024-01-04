@@ -1,4 +1,3 @@
-# 딥러닝(image caption)을 활용한 
-# 이미지에 설명문 생성
+# 딥러닝 모델을 활용한 Image Caption
 
 - https://github.com/suno-ai/bark
